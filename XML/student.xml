@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="studentstyle.css"?>
+
+<students>
+  <title>Student List</title>
+  <student>
+    <name>Name: Pavitra Patil</name>
+    <department>Department: Computer Science and Engineering</department>
+    <year>Year: 2nd Year</year>
+    <en>EN Number: EN24204856</en>
+    <cgpa>CGPA: 9.6</cgpa>
+  </student>
+  <student>
+    <name>Name: Niti Deshpande</name>
+    <department>Department: Civil Engineering</department>
+    <year>Year: 2nd Year</year>
+    <en>EN Number: EN28490257</en>
+    <cgpa>CGPA: 9.1</cgpa>
+  </student>
+  <student>
+    <name>Name: Mihir Desai</name>
+    <department>Department: Mechanical Engineering</department>
+    <year>Year: 2nd Year</year>
+    <en>EN Number: EN28390876</en>
+    <cgpa>CGPA: 8.0</cgpa>
+  </student>
+</students>
+

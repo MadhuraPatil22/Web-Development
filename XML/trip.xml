@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Trip.css"?>
+
+<trip>
+  <title>Varanasi Trip Itinerary</title>
+  <day1>
+    <spot1>Visit Assi Ghat: Attend the morning Ganga aarti, popularly known as Subah-E-Banaras.</spot1>
+    <spot2>Visit Shri Kaal Bhairav Temple: He is considered as the guard of the city of Varanasi and hence everyone who wishes to enter the city needs his permission.</spot2>
+    <spot3>Take a boat ride to reach Manikarnika Ghat and enter the Kashi Vishwanath Temple from the Ghat side.</spot3>
+    <spot4>Reach Dashashwamedh Ghat before 6 pm: Ganga aarti is the best thing to witness at Dashashwamedh Ghat.</spot4>
+  </day1>
+  <day2>
+    <spot1>Explore the historic Ramnagar Fort.</spot1>
+    <spot2>Visit Banaras Hindu University Campus (BHU).</spot2>
+    <spot3>Enjoy famous “Kullad Lassi” near BHU gate.</spot3>
+    <spot4>Visit Bharat Mata Mandir near Tulsi Manas Mandir.</spot4>
+    <spot5>Evening snacks at Kashi Chat Bandar – try a variety of local chaat.</spot5>
+    <spot6>Try Banarasi paan from a popular paan shop.</spot6>
+  </day2>
+</trip>
